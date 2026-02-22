@@ -28,7 +28,7 @@ function Cart() {
   const cart = fakeCart;
 
   return (
-    <div>
+    <div >
       <Link to="/menu">&larr; Back to menu</Link>
 
       <h2>Your cart, %NAME%</h2>
